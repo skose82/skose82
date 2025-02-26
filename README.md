@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="33"/>
           
 </p>
-<p align="right">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
