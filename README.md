@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <h3> 🚀 &nbsp;Tools</h3>
 <p align="left">
