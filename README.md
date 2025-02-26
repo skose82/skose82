@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <p align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=vision-friendly-dark)
 
 <h4> 🚀 &nbsp;Languages and Tools</h4>
 <p align="left">
