@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=github_dark_dimmed)
 
-<h4> 🚀 &nbsp;Languages and Tools</h4>
+<h4> 🚀 &nbsp;Tools</h4>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
