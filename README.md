@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-<!-- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=github_dark_dimmed)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=github_dark_dimmed)
+<!-- 
 <h3> 🚀 &nbsp;Tools</h3>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" height="45"/>
