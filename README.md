@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="left">
-
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=github_dark_dimmed)
 
 <h3> 🚀 &nbsp;Tools</h3>
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
 </svg>
 </p>
+-->
