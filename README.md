@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="right">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=github_dark_dimmed)
+<p align="right"> 
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=skose82&show_icons=true&theme=github_dark_dimmed)
+</p>
+
 <!-- 
 <h3> 🚀 &nbsp;Tools</h3>
 <p align="left">
